@@ -4,5 +4,11 @@
     "name": "Test Test",
     "username": "$testcashapp",
     "color": "#41EAC1"
+  },
+  {
+    "id": 2,
+    "name": "Test Update",
+    "username": "$testcashapp2",
+    "color": "#41EACB"
   }
 ]
