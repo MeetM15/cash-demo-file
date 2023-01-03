@@ -75,5 +75,16 @@
     "type": "credit",
     "color": "#01D54F",
     "initial": "$"
+  },
+  {
+    "id": 8,
+    "name": "Leo",
+    "description": "On Oct 30",
+    "amount": "15000",
+    "currency": "$",
+    "username": "Bank Account 777",
+    "type": "credit",
+    "color": "#01A5AF",
+    "initial": "L"
   }
 ]
